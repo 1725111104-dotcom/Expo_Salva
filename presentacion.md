@@ -2,7 +2,7 @@
 > **Aguirre Barragán Eduardo                
 Espinosa García Yasmin
 Montiel Ortiz Axel Josué
-Peralta Martinez Estepanye**
+Peralta Martínez Estefany**
 
 ---
 
