@@ -2,7 +2,7 @@
 
 ### **Integrantes del equipo:**
 * Aguirre Barragán Eduardo
-* Espinosa García Yasmin
+* Espinosa Garcia Yazmin
 * Montiel Ortiz Axel Josué
 * Peralta Martínez Estefany
 
