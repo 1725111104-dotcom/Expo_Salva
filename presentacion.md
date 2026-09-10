@@ -1,8 +1,11 @@
 # Las Herramientas Esenciales para un Ingeniero de Software
-> **Aguirre Barragán Eduardo                
-Espinosa García Yasmin
-Montiel Ortiz Axel Josué
-Peralta Martínez Estefany**
+
+### **Integrantes del equipo:**
+* Aguirre Barragán Eduardo
+* Espinosa García Yasmin
+* Montiel Ortiz Axel Josué
+* Peralta Martínez Estefany
+
 
 ---
 
