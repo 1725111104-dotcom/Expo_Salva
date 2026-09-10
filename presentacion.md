@@ -41,11 +41,11 @@
 ## 3. Integración y Despliegue Continuo (CI/CD)
 
 > *Automatización del ciclo de vida del software: construcción, pruebas y entrega a producción.*
-### ⚡ **GitHub Actions / GitLab CI**
+### **GitHub Actions / GitLab CI**
 - **Propósito**: Automatización de workflows directamente integrada en el repositorio de código.
 - **Uso**: Se activa al hacer `git push` o abrir un PR; ejecuta pruebas y despliega automáticamente usando archivos de configuración YAML.
 
-### ⚙️ **Jenkins**
+### **Jenkins**
 - **Propósito**: Servidor de automatización *open-source* altamente personalizable.
 - **Uso**: Ideal para arquitecturas empresariales complejas o infraestructura auto-hospedada (*on-premise*).
 
@@ -68,11 +68,11 @@
 
 > *Persistencia de datos estructurados y no estructurados con alto rendimiento.*
 
-### 🏢 **Relacionales (SQL)** — *Estructura e Integridad ACID*
+### **Relacionales (SQL)** — *Estructura e Integridad ACID*
 * **PostgreSQL**: Base de datos relacional avanzada de código abierto, conocida por su robustez y soporte para datos complejos.
 * **MySQL**: Extremadamente popular, rápida y pilar de la web moderna.
 
-### ⚡ **No Relacionales (NoSQL)** — *Escalabilidad y Flexibilidad*
+### **No Relacionales (NoSQL)** — *Escalabilidad y Flexibilidad*
 * **MongoDB**: Base de datos orientada a documentos (JSON/BSON), ideal para esquemas dinámicos y desarrollo ágil.
 * **Redis**: Almacenamiento clave-valor en memoria de velocidad ultra rápida; usada principalmente para *caching*, sesiones y colas de mensajes.
 
@@ -82,15 +82,15 @@
 
 > *Asegura la calidad, estabilidad y seguridad del software antes de llegar al usuario.*
 
-### 🛠️ **Pruebas Unitarias e Integración**
+### **Pruebas Unitarias e Integración**
 - **Jest** *(JavaScript/TypeScript)* | **JUnit** *(Java)* | **PyTest** *(Python)*
 - *Función*: Evalúan fragmentos individuales de código (funciones, clases) para confirmar que retornen el resultado esperado.
 
-### 🌐 **Pruebas End-to-End (E2E)**
+### **Pruebas End-to-End (E2E)**
 - **Cypress / Playwright**
 - *Función*: Simulan la interacción real de un usuario en el navegador (clics, formularios, navegación) de principio a fin.
 
-### 📡 **Pruebas de APIs**
+### **Pruebas de APIs**
 - **Postman**
 - *Función*: Diseñar, probar, documentar y simular peticiones HTTP (REST, GraphQL) a servicios backend.
 
